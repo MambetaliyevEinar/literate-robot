@@ -1,5 +1,5 @@
 print("Hello World!?");
 print("look")
 print("ok")
-print("do it")
+print("do it$")
 print("do it ok")
